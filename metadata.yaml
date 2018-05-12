@@ -1,0 +1,28 @@
+_repo: Rodin---l-hotel-de-Biron-et---Meudon_42561
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42561-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Coquiot, Gustave
+    birthdate: 1865
+    deathdate: 1926
+    gutenberg_agent_id: '37017'
+    url: http://www.gutenberg.org/2009/agents/37017
+    wikipedia: http://fr.wikipedia.org/wiki/Gustave_Coquiot
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2013-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42561'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rodin, Auguste, 1840-1917'
+- !lcc 'NB'
+title: Rodin à l'hotel de Biron et à Meudon
+url: http://www.gutenberg.org/ebooks/42561
